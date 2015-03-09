@@ -39,6 +39,6 @@ function jQueryInclude(callback) {
  * @returns {undefined}
  */
 jQueryInclude(function() {
-  jQ("body").css("background-color", "#feffcd");
+  jQ("body").css("background-color", "#feffef");
   jQ(".row2").css("background-color", "#feffcd");
 });
